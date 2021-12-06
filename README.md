@@ -1,5 +1,23 @@
 # Python-Class-97
 
+Python is free and simple to learn
+
+Python supports cross-platform operating systems which makes building applications with it all the more convenient
+
+1.Python can be used to make web-applications 
+2.Python is used in Machine Learning and Artificial Intelligence 
+3.Python is used in Data Science and Data Visualization
+4.Python is used in Web Scraping Applications: pull a large amount of data from websites which can then be helpful in various real-world processes such as price comparison, job listings, research and development and much more. 
+
+
+
+---------------------------------------------
+
+
+
+
+
+
 Python Conditions and If statements
 Python supports the usual logical conditions from mathematics:
 
